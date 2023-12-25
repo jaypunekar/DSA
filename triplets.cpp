@@ -1,3 +1,9 @@
+/*
+Given an array containing N integers, and a number S denoting a target sum
+
+Find a triplet that adds up to the number S
+*/
+
 #include <iostream>
 #include <vector>
 #include <utility>
